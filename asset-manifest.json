@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Phone-Shop-Prototype/static/css/main.0769f0a9.chunk.css",
+    "main.js": "/Phone-Shop-Prototype/static/js/main.ec93c79a.chunk.js",
+    "main.js.map": "/Phone-Shop-Prototype/static/js/main.ec93c79a.chunk.js.map",
+    "runtime-main.js": "/Phone-Shop-Prototype/static/js/runtime-main.551ec933.js",
+    "runtime-main.js.map": "/Phone-Shop-Prototype/static/js/runtime-main.551ec933.js.map",
+    "static/js/2.84836ca5.chunk.js": "/Phone-Shop-Prototype/static/js/2.84836ca5.chunk.js",
+    "static/js/2.84836ca5.chunk.js.map": "/Phone-Shop-Prototype/static/js/2.84836ca5.chunk.js.map",
+    "index.html": "/Phone-Shop-Prototype/index.html",
+    "precache-manifest.e6188c242ba2abc15e35d21ef2701581.js": "/Phone-Shop-Prototype/precache-manifest.e6188c242ba2abc15e35d21ef2701581.js",
+    "service-worker.js": "/Phone-Shop-Prototype/service-worker.js",
+    "static/css/main.0769f0a9.chunk.css.map": "/Phone-Shop-Prototype/static/css/main.0769f0a9.chunk.css.map",
+    "static/js/2.84836ca5.chunk.js.LICENSE.txt": "/Phone-Shop-Prototype/static/js/2.84836ca5.chunk.js.LICENSE.txt",
+    "static/media/honor20.png": "/Phone-Shop-Prototype/static/media/honor20.34a83a57.png",
+    "static/media/honor30.png": "/Phone-Shop-Prototype/static/media/honor30.0005ae3f.png",
+    "static/media/huaweiP20.png": "/Phone-Shop-Prototype/static/media/huaweiP20.9d1a0b7f.png",
+    "static/media/huaweiP30.png": "/Phone-Shop-Prototype/static/media/huaweiP30.467ea910.png",
+    "static/media/iphone11proMax.png": "/Phone-Shop-Prototype/static/media/iphone11proMax.dc8bd4cf.png",
+    "static/media/iphone7plus.png": "/Phone-Shop-Prototype/static/media/iphone7plus.1d3de595.png",
+    "static/media/iphoneSe2020.png": "/Phone-Shop-Prototype/static/media/iphoneSe2020.05da3d5f.png",
+    "static/media/iphoneX.png": "/Phone-Shop-Prototype/static/media/iphoneX.c44ea6fa.png",
+    "static/media/samsungGalaxyNote10.png": "/Phone-Shop-Prototype/static/media/samsungGalaxyNote10.4d2ffcdc.png",
+    "static/media/samsungGalaxyS20.jpg": "/Phone-Shop-Prototype/static/media/samsungGalaxyS20.151a6783.jpg",
+    "static/media/samsungGalaxyS20Ultra.png": "/Phone-Shop-Prototype/static/media/samsungGalaxyS20Ultra.8f970721.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.551ec933.js",
+    "static/js/2.84836ca5.chunk.js",
+    "static/css/main.0769f0a9.chunk.css",
+    "static/js/main.ec93c79a.chunk.js"
+  ]
+}
